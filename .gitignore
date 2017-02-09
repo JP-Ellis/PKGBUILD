@@ -1,0 +1,3 @@
+# Don't include downloaded source, packaged files, etc.
+*.tar.xz
+*.tar.gz
