@@ -1,0 +1,4 @@
+[submodule "delphes"]
+	path = delphes
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = delphes
