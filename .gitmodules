@@ -22,3 +22,7 @@
 	path = madgraph-pythia-pgs
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = madgraph-pythia-pgs
+[submodule "mathematica"]
+	path = mathematica
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = mathematica
