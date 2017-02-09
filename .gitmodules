@@ -2,3 +2,7 @@
 	path = delphes
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = delphes
+[submodule "checkmate"]
+	path = checkmate
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = checkmate

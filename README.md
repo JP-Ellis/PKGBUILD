@@ -14,4 +14,5 @@ Each package is a separate branch of this repository.
 Packages
 ========
 
+- [CheckMATE](../../tree/checkmate)
 - [Delphes](../../tree/delphes)
