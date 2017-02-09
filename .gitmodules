@@ -6,3 +6,19 @@
 	path = checkmate
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = checkmate
+[submodule "topdrawer"]
+	path = topdrawer
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = topdrawer
+[submodule "madgraph"]
+	path = madgraph
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = madgraph
+[submodule "madgraph-madanalysis"]
+	path = madgraph-madanalysis
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = madgraph-madanalysis
+[submodule "madgrapha-pythia-pgs"]
+	path = madgraph-pythia-pgs
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = madgraph-pythia-pgs
