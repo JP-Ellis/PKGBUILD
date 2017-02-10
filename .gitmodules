@@ -26,3 +26,11 @@
 	path = mathematica
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = mathematica
+[submodule "pythia"]
+	path = pythia
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = pythia
+[submodule "pythia8"]
+	path = pythia8
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = pythia8

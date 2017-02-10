@@ -8,7 +8,8 @@ all the instructions required to compile and install a particular program.
 This repository lists the PKGBUILDs which I have created, or have contributed
 to.  A lot of them are related to physics, and in particular, particle physics.
 
-Each package is a separate branch of this repository.
+Each package is a separate branch of this repository and can be accessed from
+the links below.
 
 
 Packages
@@ -28,3 +29,5 @@ Contributor
 -----------
 
 - [Mathematica](../../tree/mathematica)
+- [Pythia](../../tree/pythia)
+- [Pythia8](../../tree/pythia8)
