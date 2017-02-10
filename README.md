@@ -23,11 +23,11 @@ Maintainer
 - [MadGraph](../../tree/madgraph)
 - [MadGraph-MadAnalysis](../../tree/madgraph-madanalysis)
 - [MadGraph-Pythia-PGS](../../tree/madgraph-pythia-pgs)
+- [Mathematica](../../tree/mathematica)
 - [TopDrawer](../../tree/topdrawer)
 
 Contributor
 -----------
 
-- [Mathematica](../../tree/mathematica)
 - [Pythia](../../tree/pythia)
 - [Pythia8](../../tree/pythia8)
