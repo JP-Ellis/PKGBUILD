@@ -34,3 +34,7 @@
 	path = pythia8
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = pythia8
+[submodule "exrootanalysis"]
+	path = exrootanalysis
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = exrootanalysis
