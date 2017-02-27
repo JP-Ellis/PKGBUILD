@@ -42,3 +42,6 @@
 	path = lhapdf
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = lhapdf
+[submodule "madanalysis5"]
+	path = madanalysis5
+	url = https://aur.archlinux.org/madanalysis5.git
