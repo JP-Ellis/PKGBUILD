@@ -38,3 +38,7 @@
 	path = exrootanalysis
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = exrootanalysis
+[submodule "lhapdf"]
+	path = lhapdf
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = lhapdf
