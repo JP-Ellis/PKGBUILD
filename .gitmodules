@@ -46,3 +46,7 @@
 	path = madanalysis5
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = madanalysis5
+[submodule "glcli"]
+	path = glcli
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = glcli
