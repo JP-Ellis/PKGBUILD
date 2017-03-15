@@ -50,3 +50,7 @@
 	path = glcli
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = glcli
+[submodule "golem95"]
+	path = golem95
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = golem95

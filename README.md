@@ -21,6 +21,7 @@ Maintainer
 - [CheckMATE](../../tree/checkmate)
 - [Delphes](../../tree/delphes)
 - [ExRootAnalysis](../../tree/exrootanalysis)
+- [Golem95](../../tree/golem95)
 - [MadAnalysis 5](../../tree/madanalysis5)
 - [MadGraph](../../tree/madgraph)
 - [MadGraph-MadAnalysis](../../tree/madgraph-madanalysis)
