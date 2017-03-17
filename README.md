@@ -26,6 +26,7 @@ Maintainer
 - [MadGraph](../../tree/madgraph)
 - [MadGraph-MadAnalysis](../../tree/madgraph-madanalysis)
 - [MadGraph-Pythia-PGS](../../tree/madgraph-pythia-pgs)
+- [MadGraph-Pythia8-Interface](../../tree/madgraph-pythia8-interface)
 - [Mathematica](../../tree/mathematica)
 - [TopDrawer](../../tree/topdrawer)
 

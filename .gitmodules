@@ -54,3 +54,7 @@
 	path = golem95
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = golem95
+[submodule "madgraph-pythia8-interface"]
+	path = madgraph-pythia8-interface
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = madgraph-pythia8-interface
