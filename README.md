@@ -33,7 +33,6 @@ Maintainer
 Contributor
 -----------
 
-- [Pythia8](../../tree/pythia8)
 - [Pythia](../../tree/pythia)
 - [glcli](../../tree/glcli)
 - [lhapdf](../../tree/lhapdf)
