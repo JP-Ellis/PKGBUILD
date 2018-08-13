@@ -28,7 +28,12 @@ Maintainer
 - [MadGraph-Pythia-PGS](../../tree/madgraph-pythia-pgs)
 - [MadGraph-Pythia8-Interface](../../tree/madgraph-pythia8-interface)
 - [Mathematica](../../tree/mathematica)
+- [Papis](../../tree/papis)
 - [TopDrawer](../../tree/topdrawer)
+- [python-habanero](../../tree/python-habanero)
+- [python-papis-python-rofi](../../tree/python-papis-python-rofi)
+- [python-pylibgen](../../tree/python-pylibgen)
+- [python-pyparser](../../tree/python-pyparser)
 
 Contributor
 -----------

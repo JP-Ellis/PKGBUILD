@@ -58,3 +58,23 @@
 	path = madgraph-pythia8-interface
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = madgraph-pythia8-interface
+[submodule "papis"]
+	path = papis
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = papis
+[submodule "python-habanero"]
+	path = python-habanero
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = python-habanero
+[submodule "python-papis-python-rofi"]
+	path = python-papis-python-rofi
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = python-papis-python-rofi
+[submodule "python-pylibgen"]
+	path = python-pylibgen
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = python-pylibgen
+[submodule "python-pyparser"]
+	path = python-pyparser
+	url = https://github.com/JP-Ellis/PKGBUILD.git
+	branch = python-pyparser
