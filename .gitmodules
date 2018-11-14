@@ -78,3 +78,7 @@
 	path = python-pyparser
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = python-pyparser
+[submodule "python-filetype"]
+	path = python-filetype
+	url = https://aur.archlinux.org/python-filetype.git
+	branch = python-filetype
