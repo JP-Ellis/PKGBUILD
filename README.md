@@ -32,6 +32,7 @@ Maintainer
 - [TopDrawer](../../tree/topdrawer)
 - [python-habanero](../../tree/python-habanero)
 - [python-papis-python-rofi](../../tree/python-papis-python-rofi)
+- [python-papis-rofi-git](../../tree/python-papis-rofi-git)
 - [python-pylibgen](../../tree/python-pylibgen)
 - [python-pyparser](../../tree/python-pyparser)
 
