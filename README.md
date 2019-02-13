@@ -29,17 +29,18 @@ Maintainer
 - [MadGraph-Pythia8-Interface](../../tree/madgraph-pythia8-interface)
 - [Mathematica](../../tree/mathematica)
 - [Papis](../../tree/papis)
-- [TopDrawer](../../tree/topdrawer)
 - [python-arxiv2bib](../../tree/python-arxiv2bib)
+- [python-filetype](../../tree/python-filetype)
 - [python-habanero](../../tree/python-habanero)
 - [python-papis-python-rofi](../../tree/python-papis-python-rofi)
 - [python-papis-rofi-git](../../tree/python-papis-rofi-git)
 - [python-pylibgen](../../tree/python-pylibgen)
 - [python-pyparser](../../tree/python-pyparser)
+- [TopDrawer](../../tree/topdrawer)
 
 Contributor
 -----------
 
-- [Pythia](../../tree/pythia)
 - [glcli](../../tree/glcli)
 - [lhapdf](../../tree/lhapdf)
+- [Pythia](../../tree/pythia)
