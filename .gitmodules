@@ -86,3 +86,7 @@
 	path = python-filetype
 	url = https://aur.archlinux.org/python-filetype.git
 	branch = python-filetype
+[submodule "python-arxiv2bib"]
+	path = python-arxiv2bib
+	url = https://aur.archlinux.org/python-arxiv2bib.git
+	branch = python-arxiv2bib

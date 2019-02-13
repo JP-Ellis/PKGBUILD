@@ -30,6 +30,7 @@ Maintainer
 - [Mathematica](../../tree/mathematica)
 - [Papis](../../tree/papis)
 - [TopDrawer](../../tree/topdrawer)
+- [python-arxiv2bib](../../tree/python-arxiv2bib)
 - [python-habanero](../../tree/python-habanero)
 - [python-papis-python-rofi](../../tree/python-papis-python-rofi)
 - [python-papis-rofi-git](../../tree/python-papis-rofi-git)
