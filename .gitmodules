@@ -72,7 +72,7 @@
 	branch = python-papis-python-rofi
 [submodule "python-papis-rofi-git"]
 	path = python-papis-rofi-git
-	url = https://aur.archlinux.org/python-papis-rofi-git.git
+	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = python-papis-rofi-git
 [submodule "python-pylibgen"]
 	path = python-pylibgen
@@ -84,17 +84,17 @@
 	branch = python-pyparser
 [submodule "python-filetype"]
 	path = python-filetype
-	url = https://aur.archlinux.org/python-filetype.git
+	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = python-filetype
 [submodule "python-arxiv2bib"]
 	path = python-arxiv2bib
-	url = https://aur.archlinux.org/python-arxiv2bib.git
+	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = python-arxiv2bib
 [submodule "python-bibtexparser"]
 	path = python-bibtexparser
-	url = https://aur.archlinux.org/python-bibtexparser.git
+	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = python-arxiv2bib
 [submodule "python2-bibtexparser"]
 	path = python2-bibtexparser
-	url = https://aur.archlinux.org/python2-bibtexparser.git
+	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = python2-bibtexparser
