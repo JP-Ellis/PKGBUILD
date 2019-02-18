@@ -90,3 +90,11 @@
 	path = python-arxiv2bib
 	url = https://aur.archlinux.org/python-arxiv2bib.git
 	branch = python-arxiv2bib
+[submodule "python-bibtexparser"]
+	path = python-bibtexparser
+	url = https://aur.archlinux.org/python-bibtexparser.git
+	branch = python-arxiv2bib
+[submodule "python2-bibtexparser"]
+	path = python2-bibtexparser
+	url = https://aur.archlinux.org/python2-bibtexparser.git
+	branch = python2-bibtexparser
