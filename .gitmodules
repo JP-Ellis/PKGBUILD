@@ -98,3 +98,6 @@
 	path = python2-bibtexparser
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = python2-bibtexparser
+[submodule "python-doi"]
+	path = python-doi
+	url = https://aur.archlinux.org/python-doi.git
