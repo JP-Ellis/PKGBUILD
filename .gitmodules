@@ -70,10 +70,10 @@
 	path = python-papis-python-rofi
 	url = https://github.com/JP-Ellis/PKGBUILD.git
 	branch = python-papis-python-rofi
-[submodule "python-papis-rofi-git"]
-	path = python-papis-rofi-git
+[submodule "papis-rofi-git"]
+	path = papis-rofi-git
 	url = https://github.com/JP-Ellis/PKGBUILD.git
-	branch = python-papis-rofi-git
+	branch = papis-rofi-git
 [submodule "python-pylibgen"]
 	path = python-pylibgen
 	url = https://github.com/JP-Ellis/PKGBUILD.git
